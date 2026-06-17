@@ -1,0 +1,6 @@
+{
+  "name": "Hiburan Untuk Pacar",
+  "description": "Aplikasi interaktif yang penuh rasa sayang untuk menghibur, menyemangati, dan menyenangkan hati pacar tercinta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
